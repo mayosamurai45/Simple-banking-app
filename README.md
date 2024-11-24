@@ -1,4 +1,4 @@
-Banki applikáció - Szoftverfejlesztési módszertanok
+Banki applikáció 
 # Követelmények:
 - [Követelmény Specifikáció](OI_kövspec.md)<br/>
 - [Funkcionális Specifikáció](OI_funcspec.md)<br/>
