@@ -1,0 +1,32 @@
+[
+    {
+        "first_name": "asdf",
+        "last_name": "dsa",
+        "pin_code": "1234",
+        "balance": 46234.0
+    },
+    {
+        "first_name": "veress",
+        "last_name": "jozsef",
+        "pin_code": "7496",
+        "balance": 50000.0
+    },
+    {
+        "first_name": "fefi",
+        "last_name": "ferenc",
+        "pin_code": "1234",
+        "balance": 5001.0
+    },
+    {
+        "first_name": "fefi",
+        "last_name": "veress",
+        "pin_code": "1234",
+        "balance": 50.0
+    },
+    {
+        "first_name": "d",
+        "last_name": "ds",
+        "pin_code": "2345",
+        "balance": 1000.0
+    }
+]
